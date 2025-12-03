@@ -8,9 +8,9 @@
 
 ## 效果截图
 
-![示例图片一](https://via.placeholder.com/600x300)
+![示例图片一](1.png)
 
-![示例图片二](https://via.placeholder.com/600x300)
+![示例图片二](2.png)
 
 ## 注意！
 
