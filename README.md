@@ -1,1 +1,17 @@
-# NCM-Tool-For-Mac
+# NCM Tool For Mac
+
+## 功能概要
+
+- 提供本地运行的网易云ncm加密格式解密
+- 数据完全本地处理，不上传，保护隐私
+- 适用于MacOS
+
+## 效果截图
+
+![示例图片一](https://via.placeholder.com/600x300)
+
+![示例图片二](https://via.placeholder.com/600x300)
+
+## 注意！
+
+本软件仅供测试使用，不得用于破解网易云数字专辑等具有产权的内容，法律后果自负！
